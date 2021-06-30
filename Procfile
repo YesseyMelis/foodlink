@@ -1,0 +1,1 @@
+web: gunicorn foodlink_back.wsgi
